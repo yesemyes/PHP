@@ -15,11 +15,4 @@
 		else 
 			$_GET[$key] = $value;
 	}
-	
-
-
-
-
-
-
 ?>
